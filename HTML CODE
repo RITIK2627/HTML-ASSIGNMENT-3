@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- THESE ARE THE METADATA  -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="robots" content="noindex, nofollow">
+    <title>Movie Poster </title>
+    <link rel="stylesheet" type="text/css" href="index.css">
+
+    <link rel="stylesheet" href="index.css"> <!--this is the link of  css file-->
+</head>
+<!--BODY PARAGRAPH STARTS FROM HERE-->
+
+<body>
+    <div class="poster-container">
+        <img src="https://i.ebayimg.com/images/g/gnEAAOSwP~tW4HMS/s-l1600.jpg" alt="Movie Poster">
+        <!--THIS IS THE SOURCE OF IMG-->
+        <h1 class="title">Movie Title: Titanic</h1>
+        <h2 class="tagline">The Story of Love</h2> <!--THIS IS FOR TAGLINE-->
+        <p class="release-date">Release Date: November 8, 1992</p> <!--THIS IS FOR RELEASE DATE -->
+        <p>The movie is about the 1912 sinking of the RMS Titanic. It stars Kate Winslet and Leonardo DiCaprio. The two
+            play characters who are of different social classes. They fall in love after meeting aboard the ship, but it
+            was not good for a rich girl to fall in love with a poor boy in 1912.</p>
+    </div>
+</body>
+
+</html>
